@@ -1,7 +1,7 @@
 const metadata = {
   title: "My Blog",
-  description: "who's blog",
-  author: "MiryangJung",
+  description: "soyi's blog",
+  author: "Myeong Soyi",
 };
 
 export default metadata;
